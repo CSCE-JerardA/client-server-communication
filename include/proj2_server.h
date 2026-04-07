@@ -68,8 +68,6 @@ class Proj2Server : public proj2::UnixDomainDatagramEndpoint{
         // Creates self variables
         uint32_t readers_;
         uint32_t solvers_;
-        uint32_t available_readers_;
-        uint32_t available_solvers_;
 
 
 };
