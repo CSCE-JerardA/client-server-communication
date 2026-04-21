@@ -12,7 +12,7 @@
 #include<mutex>
 
 
-#include<proj2/lib/domain_socket.h>
+#include<client-server-communication/lib/domain_socket.h>
 
 
 class Proj2Server : public proj2::UnixDomainDatagramEndpoint{

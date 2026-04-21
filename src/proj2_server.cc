@@ -10,12 +10,12 @@
 #include<cstring>
 
 // Libraries for Server
-#include<proj2/lib/domain_socket.h>
-#include<proj2/lib/file_reader.h>
-#include<proj2/lib/sha_solver.h>
-#include<proj2/lib/thread_log.h>
-#include<proj2/lib/timings.h>
-#include<proj2/include/proj2_server.h>
+#include<client-server-communication/lib/domain_socket.h>
+#include<client-server-communication/lib/file_reader.h>
+#include<client-server-communication/lib/sha_solver.h>
+#include<client-server-communication/lib/thread_log.h>
+#include<client-server-communication/lib/timings.h>
+#include<client-server-communication/include/proj2_server.h>
 
 
 struct File {
