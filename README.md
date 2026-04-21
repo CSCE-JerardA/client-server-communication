@@ -1,4 +1,4 @@
-# Copyright 2026 JC Austin 
+### Copyright 2026 JC Austin 
 # Project 2: Local IPC and Resource Management
 
 
